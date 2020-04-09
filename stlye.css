@@ -22,30 +22,30 @@ p{
 
 }
 
-#chicken{
+#one{
 	background-color: aqua;
 	margin-left: 100px;
 
 }
-#chicken:hover{
+#one:hover{
 	background-color: #ff0000;
 }
 
-#beef
+#tow
 {
 	background-color: seagreen;
 	margin-left: 100px;
 }
-#beef:hover{
+#tow:hover{
 	background-color: #ff0000;
 
 }
-#seafood{
+#three{
 	background-color: palevioletred;
 	margin-left: 100px;
 
 }
-#seafood:hover{
+#three:hover{
 	background-color: #ff0000;
 }
 
